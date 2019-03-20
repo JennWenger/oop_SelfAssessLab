@@ -1,0 +1,7 @@
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\OOP-C#\SelfAssessLab\SelfAssessLab\bin\Debug\SelfAssessLab.exe.config
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\OOP-C#\SelfAssessLab\SelfAssessLab\bin\Debug\SelfAssessLab.exe
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\OOP-C#\SelfAssessLab\SelfAssessLab\bin\Debug\SelfAssessLab.pdb
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\OOP-C#\SelfAssessLab\SelfAssessLab\obj\Debug\SelfAssessLab.csprojAssemblyReference.cache
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\OOP-C#\SelfAssessLab\SelfAssessLab\obj\Debug\SelfAssessLab.csproj.CoreCompileInputs.cache
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\OOP-C#\SelfAssessLab\SelfAssessLab\obj\Debug\SelfAssessLab.exe
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\OOP-C#\SelfAssessLab\SelfAssessLab\obj\Debug\SelfAssessLab.pdb
